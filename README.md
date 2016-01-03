@@ -1,1 +1,3 @@
-getmantra
+Get Mantra
+
+Getting Started
